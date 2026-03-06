@@ -1,0 +1,9 @@
+# 1. Instala la librería
+pip install reflex
+
+# 2. Crea una carpeta para tu proyecto y entra en ella
+mkdir mi_proyecto_veloz
+cd mi_proyecto_veloz
+
+# 3. Inicializa el proyecto (elige la plantilla 'blank' si te pregunta)
+rx init
